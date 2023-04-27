@@ -1,3 +1,4 @@
 MKVtoMP4.spec
 dist/
 build/
+.DS_Store
